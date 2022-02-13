@@ -9,5 +9,5 @@ Dessa förlorade tentakler kan samlas ihop av en spelare för att skapa gripkrä
 <NEWLINE>
 Denna gripapparat gör att man kan skjuta upp till fyra tentakler åt gången, haka fast på vilken yta som helst och dra dem mot sig. Det är mycket praktiskt för grott och havsutforskning.
 <NEWLINE>
-Jättebläckfisk kan bli trycklöst om den är under mindre än tio block vatten och kommer att få en blek färg.
+Jättebläckfisken kan bli trycklöst om den är under mindre än tio block vatten och kommer att få en blek färg.
 Sällan, om en normal bläckfisk träffas av blixten, kan den förvandlas till en unik blå jättebläckfisk.
